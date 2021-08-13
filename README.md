@@ -1,5 +1,4 @@
-# login-management-system
-# Django E-commerce-RESTAPI
+# Login-management-system
 
 A login system API created using Django RestFramework with features such as user registration, user login, JWT token authentication, email password reset and confirmation. 
  

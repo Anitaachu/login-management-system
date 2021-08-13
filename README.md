@@ -15,11 +15,29 @@ A login system API created using Django RestFramework with features such as user
 * Token authentication
 * JWT Authentication
 
-# Installation
+## Installation
 This project was built using python - Django. For set up, firstly ensure you have [python](https://www.python.org/downloads/) downloaded and installed. Then proceed to install Django in your command prompt.
+
+```bash
+pip install django
+```
+
 ```python
 pip install django, djangorestframework
 ```
+
+
+## Usage
+
+Go to the Login-System folder and run
+
+```bash
+python manage.py runserver
+```
+
+Then go to the browser and enter the url **http://127.0.0.1:8000/**
+
+
 
 # Virtual environment. 
 Before installing the packages required for this project you may want to create a virtual environment. This will ensure you do not have lots of packages clogging. Virtual envirnoment is created by running:

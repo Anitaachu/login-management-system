@@ -1,7 +1,6 @@
 # Login-management-system
 
-A login system API created using Django RestFramework with features such as user registration, user login, JWT token authentication, email password reset and confirmation. 
- 
+An e-book store, where the users can get a list of all books, create new books, edit and delete books.
 
 # Framework
 ### Built with
@@ -10,10 +9,10 @@ A login system API created using Django RestFramework with features such as user
 
 
 # Features
-* Browseable API
-* Email reset
-* Token authentication
-* JWT Authentication
+* `GET`
+* `POST`
+* `UPDATE`
+* `DELETE`
 
 ## Installation
 This project was built using python - Django. For set up, firstly ensure you have [python](https://www.python.org/downloads/) downloaded and installed. Then proceed to install Django in your command prompt.
